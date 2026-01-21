@@ -1,0 +1,18 @@
+/* *{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: teal;
+} */
+
+h3{
+    color: red;
+}
+h1{
+    color:teal;
+}
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: red;
+    color:white;
+}
